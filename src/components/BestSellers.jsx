@@ -9,7 +9,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 
-const BestSellers = ({ BestSellersDetails }) => {
+export const BestSellers = ({ BestSellersDetails }) => {
   return (
     <>
       <Box p={10} mt={10}>

@@ -17,11 +17,11 @@ import HeroSection from "./HeroSection";
 import Offers from "./Offers";
 import NewArrivals from "../../components/NewArrivals";
 import SummerSale from "./SummerSale";
-import BestSellers from "../../components/BestSellers";
 import Occasion from "../../components/Occasion";
 import Game from "../../components/Game";
 import Footer from "../../components/Footer";
 import FeaturedImageCard from "./FeaturedImageCard";
+import BestSellers from "../../components/BestSellers";
 
 const Home = () => {
   const imgArray = [featImage, featImage2, featImage3, featImage4];
