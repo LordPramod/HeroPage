@@ -1,14 +1,5 @@
-import {
-  Box,
-  Button,
-  Flex,
-  HStack,
-  Image,
-  Stack,
-  Text,
-} from "@chakra-ui/react";
+import { Box, Button, Flex, Image, Stack, Text } from "@chakra-ui/react";
 import { span } from "framer-motion/client";
-import React from "react";
 
 const Occasion = ({ OccasionImage }) => {
   return (

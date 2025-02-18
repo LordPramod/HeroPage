@@ -3,13 +3,11 @@ import {
   Button,
   Flex,
   Grid,
-  Heading,
   HStack,
   Image,
   Stack,
   Text,
 } from "@chakra-ui/react";
-import React from "react";
 import { ellipse, OfferImage } from "../../assets";
 
 const Offers = () => {

@@ -1,13 +1,4 @@
-import {
-  Box,
-  Button,
-  Flex,
-  Grid,
-  Heading,
-  Image,
-  Stack,
-  Text,
-} from "@chakra-ui/react";
+import { Box, Button, Flex, Grid, Image, Stack, Text } from "@chakra-ui/react";
 import { SummerEllipse, SummerSaleImage } from "../../assets";
 
 const SummerSale = () => {

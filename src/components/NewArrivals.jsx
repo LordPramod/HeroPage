@@ -1,16 +1,14 @@
 import {
   Box,
-  Button,
   Flex,
   Grid,
   HStack,
   Icon,
-  IconButton,
   Image,
   Stack,
   Text,
 } from "@chakra-ui/react";
-import React from "react";
+
 import { FaArrowRight } from "react-icons/fa6";
 import {
   NewArrivalsImage,

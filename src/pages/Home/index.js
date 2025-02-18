@@ -12,16 +12,16 @@ import {
   OccasionImage,
 } from "../../assets";
 import NavBar from "../../components/NavBar";
-import FeaturedImageCard from "../FeaturedImageCard";
+
 import HeroSection from "./HeroSection";
 import Offers from "./Offers";
 import NewArrivals from "../../components/NewArrivals";
 import SummerSale from "./SummerSale";
-import { image } from "framer-motion/client";
 import BestSellers from "../../components/BestSellers";
 import Occasion from "../../components/Occasion";
 import Game from "../../components/Game";
 import Footer from "../../components/Footer";
+import FeaturedImageCard from "./FeaturedImageCard";
 
 const Home = () => {
   const imgArray = [featImage, featImage2, featImage3, featImage4];

@@ -1,13 +1,5 @@
-import {
-  Box,
-  Button,
-  Flex,
-  HStack,
-  Image,
-  Stack,
-  Text,
-} from "@chakra-ui/react";
-import { CartImage, HeroImage } from "../../assets/images/";
+import { Box, Button, Flex, HStack, Image, Text } from "@chakra-ui/react";
+import { HeroImage } from "../../assets/images/";
 
 const HeroSection = () => {
   return (
