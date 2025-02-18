@@ -1,5 +1,5 @@
 import { Stack } from "@chakra-ui/react";
-import { Home } from "./pages/Home/Index";
+import Home from "./pages/Home";
 
 function App() {
   return (

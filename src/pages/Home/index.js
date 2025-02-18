@@ -23,7 +23,7 @@ import Occasion from "../../components/Occasion";
 import Game from "../../components/Game";
 import Footer from "../../components/Footer";
 
-export const Home = () => {
+const Home = () => {
   const imgArray = [featImage, featImage2, featImage3, featImage4];
 
   const BestSellersDetails = [
@@ -85,3 +85,5 @@ export const Home = () => {
     </>
   );
 };
+
+export default Home;

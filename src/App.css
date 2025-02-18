@@ -1,9 +1,0 @@
-#root {
-    overflow-y: scroll; /* Enables scrolling */
-    scrollbar-width: none; /* Hides scrollbar in Firefox */
-    -ms-overflow-style: none; /* Hides scrollbar in IE and Edge */
-}
-
-#root::-webkit-scrollbar {
-    display: none; /* Hides scrollbar in Chrome, Safari, and Edge */
-}
